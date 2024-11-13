@@ -1,8 +1,5 @@
 <h1 align="left">Han Boxall</h1>
 
-###
-
-<p align="left">Data Scientist at Peak to Peak Measurement Solutions - processing time-domain sensor data. Recently completed a Coding Bootcamp in Data Science. STEM background, studied Biology MSci at the University of Bristol.</p>
 
 ###
 
