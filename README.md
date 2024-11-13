@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am currently studying a Skills Bootcamp in Data Science, taught by CoGrammar. The course teaches skills including software development within Python and SQL, object-oriented programming, data transformation and manipulation, data visualisation, machine learning, and Natural Language Processing (NLP). I am thoroughly enjoying the problem-solving element of learning to code and it is something I would love to continue doing in my career.</p>
+<p align="left">Data Scientist at Peak to Peak Measurement Solutions - processing time-domain sensor data. Recently completed a Coding Bootcamp in Data Science. STEM background, studied Biology MSci at the University of Bristol.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Based in London<br>📚 I'm currently studying Data Science<br>🎯 Goals: To start a career in tech<br>🎲 Fun fact: I have a masters degree in Zoology</p>
+<p align="left">🌍 Based in London<br>📈 Data Scientist at Peak to Peak Measurement Solutions<br>🎓 Studied Data Science (Bootcamp), MSci Biology (University of Bristol)<br>🧗 Climbing fanatic</p>
 
 ###
 
